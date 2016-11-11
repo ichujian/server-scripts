@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo yum install vim htop git 
+sudo yum install vim htop git zsh -y
