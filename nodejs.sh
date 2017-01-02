@@ -1,4 +1,3 @@
 #!/bin/bash
-curl --silent --location https://rpm.nodesource.com/setup_4.x | bash -
-yum -y install nodejs
+curl --silent --location https://rpm.nodesource.com/setup_7.x | bash - && yum -y install nodejs
 
